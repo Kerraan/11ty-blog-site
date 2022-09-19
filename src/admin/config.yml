@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: Kerraan/11ty-blog-site # Path to your GitHub repository
+  name: git-gateway
   branch: main
 media_folder: "public/assets/blog"
 public_folder: "/assets/blog"
