@@ -1,11 +1,16 @@
 ---
 title: Hello World how are you
-description: this is a short desciption right here
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+  eiusmod tempor incididunt ut labore et dolore magna aliqua. Id leo in vitae
+  turpis massa. Amet tellus **cras** adipiscing enim eu turpis egestas pretium
+  aenean. Ornare aenean euismod elementum nisi quis eleifend. Amet tellus cras
+  adipiscing enim eu turpis. Nisi vitae suscipit tellus mauris. Mauris in
+  aliquam sem fringilla ut morbi tincidunt augue. Mi eget mauris pharetra et. Et
+  tortor at risus viverra. Id eu nisl nunc mi ipsum
 author: Dirk
 dat: 2022-09-20T20:22:47.749Z
 tags:
   - post
-  - featured
 image: /assets/blog/645620.png
 imageAlt: Background image
 ---
